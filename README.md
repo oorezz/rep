@@ -1,1 +1,1 @@
-Dette er readme filen
+Dette er readme filen - for test1
